@@ -15,10 +15,8 @@ This project is a classic two-player Tic-Tac-Toe game implemented using HTML, CS
 
 To get started with the Tic-Tac-Toe game, follow these steps:
 
-1. **Clone the repository or download the ZIP file:**
-   ```sh
-   git clone <repository-url>
-or download and extract the ZIP file.
+1. **download the ZIP file:**
+    download and extract the ZIP file.
 
 Open index.html in your web browser:
 You can open the index.html file directly in any modern web browser to start playing the game.
@@ -54,7 +52,5 @@ handleRestartGame(): Resets the game state and UI for a new round.
 License
 This project is open-source and available under the MIT License.
 
-Contact
-For any questions or feedback, please contact us at info@unifiedmentor.com.
 
 Enjoy playing the Tic-Tac-Toe game!
